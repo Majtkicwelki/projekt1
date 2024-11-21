@@ -34,7 +34,7 @@ fun PierwszyEkran(navController: NavHostController) {
                 Button(onClick = { navController.navigate("trzeci_ekran") }) {
                     Text("Trzeci Ekranu")
                 }
-            }
+            } 
         }
     }}
 
